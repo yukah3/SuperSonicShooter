@@ -27,4 +27,9 @@ Others
 
 then, assemble the electronic parts and make the hardware.
 upload the code and you are ready to play!
+The codes are [SSS_Main] for the arduino nano,
+[SSS_I2C_Slave_Sound] for the arduino uno chip.
+
+[SSS_Simple] is the simplified code without the sound + charging system and can be built easier.
+
 please enjoy playing with SSS!
