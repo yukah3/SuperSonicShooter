@@ -26,7 +26,9 @@ Others
 - spacer
 
 then, assemble the electronic parts and make the hardware.
-upload the code and you are ready to play!
+The whole schematic is on [SSS_schematic.pdf]
+
+after building the hardware, upload the code and you are ready to play!
 The codes are [SSS_Main] for the arduino nano,
 [SSS_I2C_Slave_Sound] for the arduino uno chip.
 
