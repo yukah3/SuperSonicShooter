@@ -8,6 +8,7 @@ The instruction below is for making 1 device.
 You will need more then 2 to play/enjoy the game.
 
 1. Get the necessary electronic components
+
 [Microcomputers]
 - Arduino Nano
 - Chip for Arduino Uno (SSCI-ATMEGA328P+OPTIBOOT)
