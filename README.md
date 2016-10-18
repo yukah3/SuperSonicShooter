@@ -25,8 +25,6 @@ Others
 - 9V battery
 - spacer
 
-2. Assemble the electronic parts and make the hardware
-
-3. Upload the code
-
-now its all complete! please enjoy playing with SSS!
+then, assemble the electronic parts and make the hardware.
+upload the code and you are ready to play!
+please enjoy playing with SSS!
