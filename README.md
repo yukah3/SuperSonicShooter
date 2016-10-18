@@ -9,19 +9,19 @@ You will need more then 2 to play/enjoy the game.
 
 1. Get the necessary electronic components
 
-[Microcomputers]
+Microcomputers
 - Arduino Nano
 - Chip for Arduino Uno (SSCI-ATMEGA328P+OPTIBOOT)
 
-[Sensors]
+Sensors
 - Piezo sensor (SEN-09198)
 - Ultrasonic Sensor (UT1612MPR)
 
-[Electric Muscle Stumulation Kit]
+Electric Muscle Stumulation Kit
 - MOS-FET (2SK2232)
 - Diode (1N4148)
 
-[Others]
+Others
 - 9V battery
 - spacer
 
