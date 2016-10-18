@@ -15,6 +15,11 @@ You will need more then 2 to play/enjoy the game.
 
 [Sensors]
 - Piezo sensor (SEN-09198)
+- Ultrasonic Sensor (UT1612MPR)
+
+[Electric Muscle Stumulation Kit]
+- MOS-FET (2SK2232)
+- Diode (1N4148)
 
 [Others]
 - 9V battery
